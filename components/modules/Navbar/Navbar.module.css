@@ -1,0 +1,9 @@
+.submenu {
+    visibility: 0;
+    opacity: 0;
+}
+
+.navlink:hover .submenu {
+    visibility: visible;
+    opacity: 1;
+}

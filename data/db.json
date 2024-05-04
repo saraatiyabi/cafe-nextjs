@@ -1,0 +1,351 @@
+{
+  "menuItems": [
+    {
+      "id": "1",
+      "title": "Home",
+      "href": "/",
+      "active": true
+    },
+    {
+      "id": "2",
+      "title": "About",
+      "href": "/about",
+      "active": false
+    },
+    {
+      "id": "3",
+      "title": "Service",
+      "href": "/service",
+      "active": false
+    },
+    {
+      "id": "4",
+      "title": "Menu",
+      "href": "/menu",
+      "active": false
+    },
+    {
+      "id": "5",
+      "title": "Pages",
+      "active": false,
+      "submenu": [
+        {
+          "id": 1,
+          "title": "Reservation",
+          "href": "/reservation"
+        },
+        {
+          "id": 2,
+          "title": "Testimonials",
+          "href": "/testimonials"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Contact",
+      "href": "/contact",
+      "active": false
+    }
+  ],
+  "slides": [
+    {
+      "id": "1",
+      "src": "/img/carousel-1.jpg"
+    },
+    {
+      "id": "2",
+      "src": "/img/carousel-2.jpg"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Fastest Door Delivery",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "img": "/img/service-1.jpg",
+      "icon": "faTruck"
+    },
+    {
+      "id": "2",
+      "title": "Fresh Coffee Beans",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "img": "/img/service-2.jpg",
+      "icon": "faMugSaucer"
+    },
+    {
+      "id": "3",
+      "title": "Best Quality Coffee",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "img": "/img/service-3.jpg",
+      "icon": "faAward"
+    },
+    {
+      "id": "4",
+      "title": "Online Table Booking",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "img": "/img/service-4.jpg",
+      "icon": "faTable"
+    }
+  ],
+  "newsletter": [
+    {
+      "id": 1,
+      "email": "saraatiyabi18@gmail.com"
+    },
+    {
+      "id": 2,
+      "email": "simamahmoodi@gmail.com"
+    },
+    {
+      "id": 3,
+      "email": "rezahabibi@gmail.com"
+    },
+    {
+      "id": 4,
+      "email": "sima1212@gmail.com"
+    },
+    {
+      "id": 4,
+      "email": "roya1212@gmail.com"
+    },
+    {
+      "id": "eb2e",
+      "email": "reza@gmail.com"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "title": "Black Coffee",
+      "price": 5,
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "score": 5,
+      "off": 0,
+      "type": "cold",
+      "img": "/img/menu-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Hot Chocolete",
+      "price": 4,
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "score": 4,
+      "off": 0,
+      "type": "hot",
+      "img": "/img/menu-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ice Cream",
+      "price": 6,
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "score": 4.9,
+      "off": 0,
+      "type": "cold",
+      "img": "/img/menu-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tea",
+      "price": 3,
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "score": 5,
+      "off": 0,
+      "type": "hot",
+      "img": "/img/menu-4.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Chocolate Milk",
+      "price": 4,
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "score": 4.8,
+      "off": 0,
+      "type": "hot",
+      "img": "/img/menu-5.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Banana Milk",
+      "price": 12,
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "score": 4.9,
+      "off": 0,
+      "type": "cold",
+      "img": "/img/menu-6.jpeg"
+    }
+  ],
+  "reservation": [
+    {
+      "id": 1,
+      "name": "Sara",
+      "email": "saraatiyabi18@gmail.com",
+      "date": "2021/06/12",
+      "time": "12:00",
+      "person": 3
+    },
+    {
+      "id": "a632",
+      "name": "sima",
+      "email": "sima@gmail.com",
+      "date": "2023/11/12",
+      "time": "12:30",
+      "person": "3"
+    },
+    {
+      "id": "58a5",
+      "name": "sima",
+      "email": "sima@gmail.com",
+      "date": "2023/11/12",
+      "time": "12:30",
+      "person": "3"
+    },
+    {
+      "id": "5b4c",
+      "name": "ali",
+      "email": "ali@gmail.com",
+      "date": "2021/10/09",
+      "time": "9:30",
+      "person": "3"
+    },
+    {
+      "id": "b011",
+      "name": "ehsan",
+      "email": "ehsan@gmail.com",
+      "date": "2019/12/18",
+      "time": "11:30",
+      "person": "3"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Sarah",
+      "profession": "Blogger",
+      "img": "/img/testimonial-1.jpg",
+      "productId": 1,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 2,
+      "name": "Mary",
+      "profession": "Barista",
+      "img": "/img/testimonial-2.jpg",
+      "productId": 2,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 3,
+      "name": "David",
+      "profession": "CEO",
+      "img": "/img/testimonial-3.jpg",
+      "productId": 3,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "profession": "CEO",
+      "img": "/img/testimonial-4.jpg",
+      "productId": 1,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 5,
+      "name": "Alison",
+      "profession": "CEO",
+      "img": "/img/testimonial-2.jpg",
+      "productId": 1,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 6,
+      "name": "David",
+      "profession": "CEO",
+      "img": "/img/testimonial-1.jpg",
+      "productId": 2,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 7,
+      "name": "Julia",
+      "profession": "CEO",
+      "img": "/img/testimonial-3.jpg",
+      "productId": 2,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 8,
+      "name": "Maria",
+      "profession": "CEO",
+      "img": "/img/testimonial-1.jpg",
+      "productId": 3,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 9,
+      "name": "Madison",
+      "profession": "CEO",
+      "img": "/img/testimonial-1.jpg",
+      "productId": 4,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 10,
+      "name": "John",
+      "profession": "CEO",
+      "img": "/img/testimonial-4.jpg",
+      "productId": 3,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 11,
+      "name": "Melissa",
+      "profession": "CEO",
+      "img": "/img/testimonial-3.jpg",
+      "productId": 4,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 5,
+      "name": "Alison",
+      "profession": "CEO",
+      "img": "/img/testimonial-2.jpg",
+      "productId": 5,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 6,
+      "name": "David",
+      "profession": "CEO",
+      "img": "/img/testimonial-1.jpg",
+      "productId": 6,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": 7,
+      "name": "Julia",
+      "profession": "CEO",
+      "img": "/img/testimonial-3.jpg",
+      "productId": 5,
+      "comment": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "email": "ali@gmail.com",
+      "subject": "reservation",
+      "message": "hello, i want to reserve the whole coffee shop for my wife birthday! can you please help me"
+    },
+    {
+      "id": "e3f0",
+      "name": "Sima",
+      "email": "sima47@gmail.com",
+      "subject": "web design",
+      "message": "hello we are a team of web designers! we found your website quite fantastic but there a few things that can help your site become better! you can contact us for further info\n"
+    }
+  ]
+}
